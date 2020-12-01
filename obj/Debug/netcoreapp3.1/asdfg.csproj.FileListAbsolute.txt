@@ -1,0 +1,11 @@
+/home/tcp/Downloads/asdfg/bin/Debug/netcoreapp3.1/asdfg
+/home/tcp/Downloads/asdfg/bin/Debug/netcoreapp3.1/asdfg.deps.json
+/home/tcp/Downloads/asdfg/bin/Debug/netcoreapp3.1/asdfg.runtimeconfig.json
+/home/tcp/Downloads/asdfg/bin/Debug/netcoreapp3.1/asdfg.runtimeconfig.dev.json
+/home/tcp/Downloads/asdfg/bin/Debug/netcoreapp3.1/asdfg.dll
+/home/tcp/Downloads/asdfg/bin/Debug/netcoreapp3.1/asdfg.pdb
+/home/tcp/Downloads/asdfg/obj/Debug/netcoreapp3.1/asdfg.csprojAssemblyReference.cache
+/home/tcp/Downloads/asdfg/obj/Debug/netcoreapp3.1/asdfg.AssemblyInfoInputs.cache
+/home/tcp/Downloads/asdfg/obj/Debug/netcoreapp3.1/asdfg.AssemblyInfo.cs
+/home/tcp/Downloads/asdfg/obj/Debug/netcoreapp3.1/asdfg.dll
+/home/tcp/Downloads/asdfg/obj/Debug/netcoreapp3.1/asdfg.pdb
